@@ -1,0 +1,18 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  /* text-align: center; */
+  color: #61dafb;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputsSection{
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,290 @@
+{
+  "results": [
+      {
+          "gender": "male",
+          "name": {
+              "title": "Mr",
+              "first": "Magnus",
+              "last": "Kristensen"
+          },
+          "location": {
+              "street": {
+                  "number": 8803,
+                  "name": "Haderslevvej"
+              },
+              "city": "Stokkemarke",
+              "state": "Syddanmark",
+              "country": "Denmark",
+              "postcode": 17587,
+              "coordinates": {
+                  "latitude": "-43.3692",
+                  "longitude": "-178.5361"
+              },
+              "timezone": {
+                  "offset": "-3:00",
+                  "description": "Brazil, Buenos Aires, Georgetown"
+              }
+          },
+          "email": "magnus.kristensen@example.com",
+          "login": {
+              "uuid": "865e4de1-b5bb-4040-9b8b-50ff12be1cb0",
+              "username": "orangepanda392",
+              "password": "pooky",
+              "salt": "RvTQbsbx",
+              "md5": "cea9911403e877b3927a06747d0a60d2",
+              "sha1": "a1fefacf4b85bb5ab61234a2bf134d2f82b45b47",
+              "sha256": "9f77728a82a8e930aa29cde2c23844aaa68c5342c7389b8127bbe15addedbd95"
+          },
+          "dob": {
+              "date": "1945-02-07T15:52:41.170Z",
+              "age": 77
+          },
+          "registered": {
+              "date": "2022-02-04T20:55:51.920Z",
+              "age": 0
+          },
+          "phone": "11791770",
+          "cell": "12992998",
+          "id": {
+              "name": "CPR",
+              "value": "070245-8482"
+          },
+          "picture": {
+              "large": "https://randomuser.me/api/portraits/men/99.jpg",
+              "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+              "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+          },
+          "nat": "DK"
+      },
+      {
+          "gender": "male",
+          "name": {
+              "title": "Mr",
+              "first": "Rich",
+              "last": "Hunt"
+          },
+          "location": {
+              "street": {
+                  "number": 1519,
+                  "name": "Main Street"
+              },
+              "city": "Kildare",
+              "state": "Longford",
+              "country": "Ireland",
+              "postcode": 92918,
+              "coordinates": {
+                  "latitude": "-65.5387",
+                  "longitude": "-96.4195"
+              },
+              "timezone": {
+                  "offset": "+9:30",
+                  "description": "Adelaide, Darwin"
+              }
+          },
+          "email": "rich.hunt@example.com",
+          "login": {
+              "uuid": "ee3ffdc7-d386-4c7e-a679-ecf84de22fc5",
+              "username": "smallgoose585",
+              "password": "werdna",
+              "salt": "W0IqZ4jj",
+              "md5": "61bfd027a7fe3345bfb7bd9631fa306a",
+              "sha1": "1af216c2ca98397886f1fd45d905711d26c11537",
+              "sha256": "70bef8e62161cbcef397788c59384d6f88c4826fcdef0265cb466fb43a651664"
+          },
+          "dob": {
+              "date": "1971-06-15T03:17:37.706Z",
+              "age": 51
+          },
+          "registered": {
+              "date": "2015-01-23T06:47:23.412Z",
+              "age": 7
+          },
+          "phone": "011-732-9224",
+          "cell": "081-100-4732",
+          "id": {
+              "name": "PPS",
+              "value": "7077468T"
+          },
+          "picture": {
+              "large": "https://randomuser.me/api/portraits/men/60.jpg",
+              "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+              "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+          },
+          "nat": "IE"
+      },
+      {
+          "gender": "female",
+          "name": {
+              "title": "Mrs",
+              "first": "Linnea",
+              "last": "Wainio"
+          },
+          "location": {
+              "street": {
+                  "number": 4172,
+                  "name": "Tehtaankatu"
+              },
+              "city": "Uurainen",
+              "state": "South Karelia",
+              "country": "Finland",
+              "postcode": 46080,
+              "coordinates": {
+                  "latitude": "7.1005",
+                  "longitude": "-9.9975"
+              },
+              "timezone": {
+                  "offset": "-6:00",
+                  "description": "Central Time (US & Canada), Mexico City"
+              }
+          },
+          "email": "linnea.wainio@example.com",
+          "login": {
+              "uuid": "a92b53e4-3730-406b-84b0-bc6ad5d7f636",
+              "username": "orangetiger242",
+              "password": "tribe",
+              "salt": "p12RsuL2",
+              "md5": "8c99ea1ca895eab739083690983290b6",
+              "sha1": "ec98427947969f8523194fae7b6b131a021ed56b",
+              "sha256": "828395b2616f5114b841cad3499be01b844c40f4c74d6e979d854d6b37ac83e7"
+          },
+          "dob": {
+              "date": "1956-08-15T22:11:13.636Z",
+              "age": 66
+          },
+          "registered": {
+              "date": "2013-10-03T00:24:10.621Z",
+              "age": 9
+          },
+          "phone": "05-068-117",
+          "cell": "047-732-51-46",
+          "id": {
+              "name": "HETU",
+              "value": "NaNNA810undefined"
+          },
+          "picture": {
+              "large": "https://randomuser.me/api/portraits/women/15.jpg",
+              "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+              "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+          },
+          "nat": "FI"
+      },
+      {
+          "gender": "female",
+          "name": {
+              "title": "Mrs",
+              "first": "Tejaswi",
+              "last": "Uchil"
+          },
+          "location": {
+              "street": {
+                  "number": 8901,
+                  "name": "Sitabuldi Main Rd"
+              },
+              "city": "Tumkur",
+              "state": "Karnataka",
+              "country": "India",
+              "postcode": 28874,
+              "coordinates": {
+                  "latitude": "71.8653",
+                  "longitude": "149.0735"
+              },
+              "timezone": {
+                  "offset": "-5:00",
+                  "description": "Eastern Time (US & Canada), Bogota, Lima"
+              }
+          },
+          "email": "tejaswi.uchil@example.com",
+          "login": {
+              "uuid": "b64ddb45-9de8-4e23-9260-9c22ccc43826",
+              "username": "beautifullion695",
+              "password": "thunder1",
+              "salt": "7LJTBNTf",
+              "md5": "c60fa5c584daff2dfac9b0b257c5dade",
+              "sha1": "bdf178a10bdb435401fd147d76c0c8847a1150ea",
+              "sha256": "ce697d2c405bed1a5e75ee99851a3befd9f070f0e7b52b6f578ca679343ccb5b"
+          },
+          "dob": {
+              "date": "1951-05-03T21:07:37.097Z",
+              "age": 71
+          },
+          "registered": {
+              "date": "2015-11-20T16:14:39.026Z",
+              "age": 7
+          },
+          "phone": "8675775830",
+          "cell": "8676121377",
+          "id": {
+              "name": "UIDAI",
+              "value": "963498051707"
+          },
+          "picture": {
+              "large": "https://randomuser.me/api/portraits/women/12.jpg",
+              "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+              "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+          },
+          "nat": "IN"
+      },
+      {
+          "gender": "male",
+          "name": {
+              "title": "Mr",
+              "first": "Torjus",
+              "last": "Rognstad"
+          },
+          "location": {
+              "street": {
+                  "number": 8811,
+                  "name": "Bjørnehiet"
+              },
+              "city": "Mosjøen",
+              "state": "Vestfold",
+              "country": "Norway",
+              "postcode": "7357",
+              "coordinates": {
+                  "latitude": "28.8977",
+                  "longitude": "112.0914"
+              },
+              "timezone": {
+                  "offset": "+3:30",
+                  "description": "Tehran"
+              }
+          },
+          "email": "torjus.rognstad@example.com",
+          "login": {
+              "uuid": "218bef93-eef7-43e9-9b7a-b1e18a1a269b",
+              "username": "ticklishgorilla996",
+              "password": "indon",
+              "salt": "rvRxKdKy",
+              "md5": "b34a4e05daa833daa2ad54b186160c43",
+              "sha1": "a45cd89bd442bb6819b33e8636ed03f13a565728",
+              "sha256": "b4f4d64e188eec7c53ac44656406c484b2bfce9ada6142af48c6744f09527a6d"
+          },
+          "dob": {
+              "date": "1967-10-19T22:31:57.925Z",
+              "age": 55
+          },
+          "registered": {
+              "date": "2004-10-03T04:12:18.327Z",
+              "age": 18
+          },
+          "phone": "70031956",
+          "cell": "91189493",
+          "id": {
+              "name": "FN",
+              "value": "19106715753"
+          },
+          "picture": {
+              "large": "https://randomuser.me/api/portraits/men/6.jpg",
+              "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+              "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+          },
+          "nat": "NO"
+      }
+  ],
+  "info": {
+      "seed": "7ce4df80c0f23b2f",
+      "results": 5,
+      "page": 1,
+      "version": "1.4"
+  }
+}
