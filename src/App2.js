@@ -83,6 +83,8 @@ export default function App() {
   }, [gender, search, pagesMax, dataLength])
   // console.log(showDatas);
 
+  
+
   return ( //
   <div className='p-5 App text-info'>
 
@@ -170,22 +172,3 @@ export default function App() {
   </div>
   );
 }
-
-
-// {
-//   function sortingNameeDefault(e){
-//     nameeValue = defaultDatas;
-//     return console.log(nameeValue);
-//   }
-//   function sortingNameeAZ(e){
-//     const test = e.sort();
-//     return console.log(test);
-//   }
-//   function sortingNameeZA(e){
-//     const test = e.reverse();
-//     return console.log(test);
-//   }
-//   sortingNameeAZ(nameeValue);
-//   sortingNameeZA(nameeValue);
-//   sortingNameeDefault(nameeValue);
-// }

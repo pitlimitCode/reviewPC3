@@ -1,52 +1,32 @@
 
-import { useState } from 'react';
 export default function App() {
+  
+  // const defaultDatas = [1,2,3,4,5]
+  const defaultDatas = 
+  [
+    {ab: 1 }, {cd: 2},
+    {ab: 3 }, {cd: 4},
+    {ab: 5 }, {cd: 6},
+    {ab: 7 }, {cd: 8},
+  ]
 
-const arrayDatas = 
-[
-  {a: 111, b: 666},
-  {a: 222, b: 777},
-  {a: 333, b: 888},
-  // {a: 444, b: 999},
-];
-
-const showDatasPerPage = 2;
-const pageMax = Math.ceil(((arrayDatas.length)/showDatasPerPage))
-
-console.log('--- NEW LINE ---');
-console.log('Total data:', arrayDatas.length);
-console.log('Showing datas per page', showDatasPerPage);
-
-let arrayPages = [];
-for(let i=0; i<pageMax; i++){
-  arrayPages.push(arrayDatas.slice(i*showDatasPerPage, (i*showDatasPerPage)+2));
-}
-console.log('Total Pages:', arrayPages.length);
-console.log(arrayPages);
-
-const [pages, setPages] = useState(1);
-let theArrayPages  = [];
-for(var ind in arrayPages){
-  // console.log('array page:' + ind, arrayPages[ind]);
-  theArrayPages.push(arrayPages[ind]);
-}
-  return(
-  <> 
-  {theArrayPages[(pages-1)].map((arr, ind) => 
-    <div key={ind}>{arr.a} & {arr.b}</div>
-  )}
-
-  <div>
-    Pages: 
-    <input
-      type='number'
-      defaultValue={1}
-      min={1}
-      max={pageMax}
-      onChange={(e) => setPages(e.target.value)}
-    />
-    from {arrayPages.length} pages
-  </div>
-  </> 
-  )
+  // for(var ind in defaultDatas){
+  //   console.log(defaultDatas.ab);
+  // }
+  
+  // function sortingNameeDefault(e){
+  //   const nameeValue = defaultDatas;
+  //   return console.log(nameeValue);
+  // }
+  // function sortingNameeAZ(e){
+  //   const test = e.sort();
+  //   return console.log(test);
+  // }
+  // function sortingNameeZA(e){
+  //   const test = e.reverse();
+  //   return console.log(test);
+  // }
+  // sortingNameeAZ(defaultDatas);
+  // sortingNameeZA(defaultDatas);
+  // sortingNameeDefault(defaultDatas);
 }
